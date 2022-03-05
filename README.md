@@ -9,6 +9,6 @@
 
 - 🔭 I’m currently working on **A Map Product that is being used by billions of people.**
 - 🌱 I’m currently learning **Lots of stuff**
-- 💬 Ask me about **Geospatial Science, Data Modeling and GIS**
+- 💬 Ask me about **Geospatial Science, Data Modeling, Product Engineering, Product Management and GIS.**
 - 📫 How to reach me: [@jettma](https://twitter.com/jettma) on Twitter
 - ⚡ Fun fact: Fan of Spurs, aka Fan of Pop.
